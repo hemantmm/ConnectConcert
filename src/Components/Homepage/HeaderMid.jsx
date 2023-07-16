@@ -1,5 +1,5 @@
 import React from 'react'
-import logo2 from '../../images/Untitled design (1).jpg'
+import logo2 from '../../images/cc2.jpg'
 
 
 function HeaderMid() {
