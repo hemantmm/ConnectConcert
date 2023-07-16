@@ -2,17 +2,11 @@ import './App.css';
 import logo2 from '../src/images/Untitled design (1).jpg'
 import logo from '../src/images/ConnectConcert.png'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-// import Header from './components/Header/Header';
-// import Header from './components/Header/Header';
-// import Home from '../src/pages/Home'
-// import Header from './Components/Header/Header'
 import Contact from './Components/Contact/Contact';
 import Home from './pages/Home';
 import Event from './Components/Event/Event';
 import Artist from './Components/Artist/Artist';
 import Premium from './Components/Premium/Premium';
-// import Contact from '../src/pages/Contact'
-
 
 function App() {
   return (
