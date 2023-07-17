@@ -1,6 +1,6 @@
 import './App.css';
-import logo2 from '../src/images/Untitled design (1).jpg'
-import logo from '../src/images/ConnectConcert.png'
+import logo2 from '../src/images/cc2.jpg'
+import logo from '../src/images/cc1.png'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Contact from './Components/Contact/Contact';
 import Home from './pages/Home';
