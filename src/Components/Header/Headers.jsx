@@ -1,6 +1,7 @@
 // import './App.css';
-import logo2 from '../../images/Untitled design (1).jpg'
-import logo from '../../images/ConnectConcert.png'
+import logo2 from '../../images/cc2.jpg'
+// import logo from '../../images/ConnectConcert.png'
+import logo from '../../images/cc1.png'
 import HeaderMid from '../Homepage/HeaderMid';
 
 
