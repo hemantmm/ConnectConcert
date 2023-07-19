@@ -27,7 +27,7 @@ function Contact() {
         <p className="copyright">
           © Copyright 2023
           <hr />
-          Designed & Built by <span>HemantM</span>
+          Designed & Built by <span>HemantM and ChiragM</span>
         </p>
     </div>
     </>
