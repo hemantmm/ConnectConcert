@@ -1,4 +1,7 @@
+// import './App.css';
+import logo2 from '../../images/Untitled design (1).jpg'
 import logo from '../../images/ConnectConcert.png'
+import HeaderMid from '../Homepage/HeaderMid';
 
 
 function Headers() {
